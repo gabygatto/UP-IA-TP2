@@ -36,7 +36,7 @@ RandomForestClassifier(
 
 
 
-El archivo generado (`random\_forest\_final.joblib`) no se incluye en este repositorio debido a las limitaciones de tamaño impuestas por GitHub para archivos individuales (100 MB).
+El archivo generado (`random\_forest\_final.joblib`) se incluye comprimido en este repositorio  debido a las limitaciones de tamaño impuestas por GitHub para archivos individuales (100 MB).
 
 
 
