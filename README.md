@@ -2,7 +2,7 @@
 
 ## Descripción del Proyecto
 
-Este trabajo práctico fue desarrollado en el marco de la Diplomatura en Inteligencia Artificial de la Universodad de Palermo y tiene como objetivo construir un modelo de Machine Learning capaz de predecir si una persona es fumadora o no a partir de información clínica, biométrica y de hábitos de salud.
+Este trabajo práctico fue desarrollado en el marco de la Diplomatura en Inteligencia Artificial de la Universidad de Palermo y tiene como objetivo construir un modelo de Machine Learning capaz de predecir si una persona es fumadora o no a partir de información clínica, biométrica y de hábitos de salud.
 
 Se utilizó un conjunto de datos compuesto por 50.000 registros de individuos, incluyendo variables demográficas, antropométricas y resultados de estudios médicos. El objetivo fue entrenar y evaluar distintos modelos de clasificación supervisada para determinar cuál ofrecía el mejor desempeño en la identificación de fumadores.
 
